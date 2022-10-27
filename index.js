@@ -8,7 +8,7 @@ PORT = process.env.PORT || 7000
 
 const writeUp = 
     {
-        "slackUsername" : "anthony" ,
+        "slackUsername" : "ucanthony" ,
         "backend" : true,
         "age" : 20,
         "bio" : "Hey, My name is Anthony. I am a backend dev currently focused on the MENT Stack (MongoDB, Expressjs, Nodejs, Typescript)."
