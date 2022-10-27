@@ -1,0 +1,23 @@
+{
+  "name": "api-endpoint-script",
+  "version": "1.0.0",
+  "description": "Creating an API that tests the GET route using expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodekage/API-Endpoint-Script.git"
+  },
+  "author": "nodekage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodekage/API-Endpoint-Script/issues"
+  },
+  "homepage": "https://github.com/nodekage/API-Endpoint-Script#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
