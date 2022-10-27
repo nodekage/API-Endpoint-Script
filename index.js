@@ -4,7 +4,7 @@ const cors = require('cors')
 
 const app = express()
 
-PORT = process.env.PORT || 5000
+PORT = process.env.PORT || 7000
 
 const writeUp = 
     {
