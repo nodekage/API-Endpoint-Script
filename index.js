@@ -6,7 +6,7 @@ const app = express()
 
 PORT = process.env.PORT || 5000
 
-const writeUp = [
+const writeUp = 
     {
         "slackUsername" : "anthony" ,
         "backend" : true,
@@ -15,7 +15,7 @@ const writeUp = [
 
 
     }
-]
+
 
 app.use (cors({
     origin : '*'
